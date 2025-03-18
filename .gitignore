@@ -52,5 +52,7 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
-/dbOpWithEFCode/.vs
+/dbOpWithEFCode/.vs/
 /dbOpWithEFCode/.vs/dbOpWithEFCode/v17/.suo
+/dbOpWithEFCode/.vs/dbOpWithEFCode/v17/DocumentLayout.json
+/dbOpWithEFCode/.vs/dbOpWithEFCode/v17/DocumentLayout.json
