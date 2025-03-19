@@ -56,3 +56,5 @@ nunit-*.xml
 /dbOpWithEFCode/.vs/dbOpWithEFCode/v17/.suo
 /dbOpWithEFCode/.vs/dbOpWithEFCode/v17/DocumentLayout.json
 /dbOpWithEFCode/.vs/dbOpWithEFCode/v17/DocumentLayout.json
+/.vs
+/.vs/dbOpWithEFCode/v17/.wsuo
